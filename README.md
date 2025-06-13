@@ -81,14 +81,22 @@ The application will:
 
 ## Data Source
 
-This application uses FAQ data from The Good Guys e-commerce platform. The data includes common customer questions and their corresponding answers about:
-- Product information
-- Delivery and shipping
-- Returns and refunds
-- Warranty information
-- Store locations and hours
-- Payment methods
-- Technical support
-- And other customer service related queries
+This application uses FAQ data from The Good Guys e-commerce platform, specifically focusing on the following key areas:
 
-The FAQ data is processed and embedded to provide accurate and relevant responses to customer queries while maintaining the context and accuracy of The Good Guys' official information. 
+- Online Orders
+- Delivery Services
+- Click and Collect
+- Store Cash
+
+The FAQ data is processed and embedded to provide accurate and relevant responses to customer queries while maintaining the context and accuracy of The Good Guys' official information.
+
+## Sample Questions
+
+Here are some example questions you can ask the assistant:
+
+- "How do I track my online order?"
+- "How does Click and Collect work?"
+- "Can I use store cash for online purchases?"
+- "What do I need to bring for Click and Collect?"
+- "How long is store cash valid for?"
+- "What are the delivery charges?"
